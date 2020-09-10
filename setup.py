@@ -10,9 +10,9 @@ setup(
     py_modules=['language'],
     package_dir={'': 'src'},
     classifiers=[
-        'Programming Language :: Python :: 3'
-        'License :: OSI Approved :: MIT License'
-        'Operating System :: OS Independent'
+        'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
     ],
     long_description=long_description,
     long_description_context_type='text/markdown',
